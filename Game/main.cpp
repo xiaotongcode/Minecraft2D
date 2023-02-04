@@ -1356,6 +1356,10 @@ int main()
                 cin >> y >> x;
                 y = 1000 - y;
             }
+            if(a == "bug")
+            {
+                system("start bug.vbs");
+            }
             if(a == "summom")
             {
                 int a;
