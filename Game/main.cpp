@@ -2,6 +2,7 @@
 #include <iostream>
 #include <conio.h>
 #include <string>
+#include <stdlib.h>
 #include <map>
 #include <cmath>
 #include <windows.h>
